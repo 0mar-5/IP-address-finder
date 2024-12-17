@@ -1,0 +1,14 @@
+.info {
+  margin-bottom: 75px;
+}
+
+p {
+  margin-top: 30px;
+  color: var(--secondray-color);
+  font-size: 1.3rem;
+}
+
+.ip-address {
+  font-size: 2rem;
+  font-weight: bold;
+}
