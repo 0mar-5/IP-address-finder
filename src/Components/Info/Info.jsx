@@ -1,8 +1,6 @@
 import "./Info.css";
 
-// eslint-disable-next-line react/prop-types
 function Info({ info }) {
-  // eslint-disable-next-line react/prop-types
   const { ip, locationInfo, isp } = info;
   return (
     <section>
